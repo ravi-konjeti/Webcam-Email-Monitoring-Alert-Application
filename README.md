@@ -1,0 +1,1 @@
+## This app detects and sends the image of any object when something is detected from pc web cam
