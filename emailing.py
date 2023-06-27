@@ -6,7 +6,7 @@ PASSWORD ="asfasdffdsfasdf"
 SENDER = "ravikonjeti1234@gmail.com"
 RECEIVER = "ravikonjeti1234@gmail.com"
 
-
+#print
 def send_email(image_path):
     email_message = EmailMessage()
     email_message["Subject"] = "New customer showed up"
